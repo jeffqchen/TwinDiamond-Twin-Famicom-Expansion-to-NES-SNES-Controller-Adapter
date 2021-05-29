@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name NintendoPorts)(type Legacy)(uri /Users/jeffchen/KiCAD/TwinFamicom_Expansion/NintendoPorts.lib)(options "")(descr ""))
+)

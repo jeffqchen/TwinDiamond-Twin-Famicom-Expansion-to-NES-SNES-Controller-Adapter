@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name NintendoPorts)(type KiCad)(uri ${KIPRJMOD}/NintendoPorts.pretty)(options "")(descr ""))
+  (lib (name Artwork)(type KiCad)(uri ${KIPRJMOD}/Artwork.pretty)(options "")(descr ""))
+)
