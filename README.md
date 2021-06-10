@@ -14,7 +14,7 @@ The plug part might appear split if your line width is set too big. Try 0.35mm a
 The back part doesn't need support either.
 
 ===PCB===  
-This design requires a PCB to be ordered:
+This design requires a PCB to be ordered:  
 https://oshpark.com/shared_projects/1aCic7tG
 
 Gerber ZIP is attached.
