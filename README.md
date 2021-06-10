@@ -4,7 +4,7 @@ TwinDiamond - Twin Famicom Expansion A to NES/SNES Controller Adapter
 
 This is an adapter for the Nintendo Twin Famicom expansion port A. It is compatible with NES and SNES controllers, plus the NES Zapper lightgun with the 2P NES port.
 
-===Printing===
+===Printing===  
 Print everything facing up is a good choice. There really isn't much to it.
 
 The front jacket obviously needs supports.
@@ -13,21 +13,21 @@ The plug part might appear split if your line width is set too big. Try 0.35mm a
 
 The back part doesn't need support either.
 
-===PCB===
+===PCB===  
 This design requires a PCB to be ordered:
 https://oshpark.com/shared_projects/1aCic7tG
 
 Gerber ZIP is attached.
 
-===PARTS===
+===PARTS===  
 The pins used in the project can be purchased from Digikey.
 
-Pins on the front:
+#Pins on the front:
 Quantity: 22 or 28
 Part No.: ED1183-ND
 Name: CONN PC PIN CIRC 0.040DIA GOLD by Mill-Max Manufacturing Corp.
 
-Pins on the back:
+#Pins on the back:
 Quantity: 9 or 15
 Part No.:88SE-ND or 89SE-ND
 Name: CONN D-SUB SOCKET 20-26AWG CRIMP
@@ -43,22 +43,21 @@ Note you don't have to populate all the pins, but it makes it look better.
 
 Screw and nut used is Hex M2 16mm (full length 17.8mm). This can be purchased from Amazon as a kit.
 
-===Assembly===
+===Assembly===  
 Soldering is not too hard but requires attention. You may want to plug in a controller into the printed plug first, insert the pins in from the back of the printed piece, one port at a time, then fit the PCB over the stumps and solder. Use just enough amount of the solder. Make sure nothing protrudes too much up from the surface.
 
 Repeat the same thing for the back female pins. Fit the 9 pins inside the back piece and then solder them in with small amount of solder.
 
-===Misc===
-Full project file can be found on GitHub:
-https://github.com/jeffqchen/twindiamond
+===Misc===  
+Thingiverse Page:  
+https://www.thingiverse.com/thing:4882800
 
-===Special Thanks===
-
-Chris Kempson:
+===Special Thanks===  
+Chris Kempson:  
 http://chriskempson.com/posts/nes-controller-to-famicom-adapter/
 
-NesDev Wiki:
-https://wiki.nesdev.com
+NesDev Wiki:  
+https://wiki.nesdev.com  
 
-Mike Chi (creator of the very famous RetroTink)
+Mike Chi (creator of the very famous RetroTink)  
 https://www.retrotink.com
