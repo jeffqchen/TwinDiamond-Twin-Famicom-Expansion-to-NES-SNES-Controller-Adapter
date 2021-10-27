@@ -2,8 +2,7 @@
 
 <img src="./Pics/01.jpg" width="600px" />
 <img src="./Pics/02.jpg" width="300px" /><img src="./Pics/03.jpg" width="300px" />
-<img src="./Pics/04.jpg" width="300px" />
-<img src="./Pics/05.jpg" width="300px" />
+<img src="./Pics/04.jpg" width="300px" /><img src="./Pics/05.jpg" width="300px" />
 
 This is an adapter for the Nintendo Twin Famicom expansion port A. It is compatible with NES and SNES controllers, plus the NES Zapper lightgun with the 2P NES port.
 
