@@ -6,6 +6,10 @@
 
 This is an adapter for the Nintendo Twin Famicom expansion port A. It is compatible with NES and SNES controllers, plus the NES Zapper lightgun with the 2P NES port.
 
+This adapter also fits well onto the AV Famicom.
+
+<img src="./Pics/10.jpg" width="400px" />
+
 Note that due to the way different games are coded, some games can't read the controllers connected on the expansion port (mostly non-Japanese games, designed for the NES).
 
 -----------
