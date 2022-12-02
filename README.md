@@ -11,7 +11,11 @@ This adapter also fits well onto the AV Famicom.
 
 <img src="./Pics/10.jpg" width="400px" />
 
-Note that due to the way different games are coded, some games can't read the controllers connected on the expansion port (mostly non-Japanese games, designed for the NES).
+## Compatibility Issue
+
+Due to the way different games are coded, [some games](https://github.com/jeffqchen/Famicom-Expansion-Port-Switcher/wiki#significant-titles-affected) can't read the controllers connected on the expansion port (mostly non-Japanese games, designed for the NES).
+
+I have designed an [internal mod](https://github.com/jeffqchen/Famicom-Expansion-Port-Switcher/wiki/Sharp-Twin-Famicom) to deal with this compatibily issue.
 
 -----------
 
